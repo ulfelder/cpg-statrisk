@@ -17,9 +17,9 @@ The scripts perform the following tasks:
 4. estimation: Estimates the component models in the ensemble using data from 1960 to 2012.
 5. prediction: Applies the models estimated in step 4 to data assembled in early 2013 to generate forecasts for calendar 2013.
 
-At present, the data-compilation and data-transformation scripts are posted to show the provenance of the data used in steps 3 and 4. Researchers interested in replicating and extending this work can download the data set produced in step 2 in tab-delimited format from this URL:
+At present, the data-compilation and data-transformation scripts are posted to show the provenance of the data used in steps 3 and 4. Step 3 produces the "raw" version, Step 4 the "cooked." Researchers interested in replicating and extending this work can download the data set produced in step 2 in tab-delimited format from this URL:
 
-[Google Drive URL]
+https://docs.google.com/file/d/0B5wyt4eDq98GQnNOeWtHOEZiMDA/edit?usp=sharing
 
 We are eager to improve on and expand this set of models. If you would like to recommend a model to add to the ensemble, a data set to add to our compilation, or an alternative approach to aggregating the component forecasts, PLEASE email me at ulfelder@gmail.com. Of course, if you discover any bugs in the R code or have any recommendations on ways to make them cleaner or more efficient, I'm eager to hear from you, too.
 
