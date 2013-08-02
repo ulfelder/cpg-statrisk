@@ -21,5 +21,9 @@ At present, the data-compilation and data-transformation scripts are posted to s
 
 https://docs.google.com/file/d/0B5wyt4eDq98GQnNOeWtHOEZiMDA/edit?usp=sharing
 
+Because the current version of the ensemble includes a Random Forest, we would expect to get slightly different results, and thus slightly different forecasts, each time we re-run the scripts. To let others replicate the 2013 forecasts presented in the accompanying paper, we have also saved the R workspace with the model objects we used to generate them. That workspace, on which the 'prediction' script depends, is downloadable from this link to Google Drive:
+
+https://docs.google.com/file/d/0B5wyt4eDq98GY2FCWENlc05WYms/edit?usp=sharing
+
 We are eager to improve on and expand this set of models. If you would like to recommend a model to add to the ensemble, a data set to add to our compilation, or an alternative approach to aggregating the component forecasts, PLEASE email me at ulfelder@gmail.com. Of course, if you discover any bugs in the R code or have any recommendations on ways to make them cleaner or more efficient, I'm eager to hear from you, too.
 
