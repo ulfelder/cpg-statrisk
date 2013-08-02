@@ -1,9 +1,9 @@
 cpg-statrisk
 ============
 
-The R scripts posted here develop and apply a multimodel ensemble that can be used to forecast the onset of episodes of state-sponsored mass killing in countries worldwide. This project is described in more detail in the following paper:
+The R scripts posted here develop and apply a multimodel ensemble that can be used to forecast the onset of episodes of state-sponsored mass killing in countries worldwide. This project is described in more detail in the following paper, prepared for the 2013 Annual Meeting of the American Political Science Association:
 
-[URL for posted paper]
+http://ssrn.com/abstract=2303048
 
 In the past, researchers using statistical methods to provide early warning on mass atrocities have sought to develop a single best model for forecasting, and they usually have attempted to test hypotheses about the causes of mass atrocities as they go. By contrast, the research described in these scripts focuses exclusively on the problem of forecasting, and the solution we have adopted involves an ensemble approach that averages predictions from several models. Over time, this ensemble should produce more accurate predictions than any single statistical model or expert forecaster would, and it lays a foundation for continuing research by leaving the door open to incorporating probabilistic forecasts from new models and other sources as they are developed.
 
